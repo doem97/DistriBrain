@@ -11,11 +11,11 @@ Distributed Brain of Next-Generation AI - for Everyone.
 </div>
 
 # What we do?
-DistriBrain aims to build a distributed brain for AIs, in a trustful, easy and safe way.
+DistriBrain aims to build a distributed brain for AIs, in a trustworthy and safe way.
 
 AI is over-powerful - while also dangerous if only occupied/powered by a small group of people/company/gov/rich man. We dream that one day, everyone could contribute to and own the AI equally, and safely. The most advanced AIs should be a public property owned by all of the human. Every one can vote (based on contribution) to decide the future/usage of the powerful AI brain.
 
-> Let the AI break down the walls between human.
+> Let the AI break down the walls among human.
 
 If you are interested, please join us on:
 
