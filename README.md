@@ -4,7 +4,7 @@
 <a href="https://www.distribrain.com" target="_blank">🧠 DistriBrain</a>
 </h1>
 
-Distributed Brain of Next-Generation AI - for Everyone.
+Distributed Brain of Next-Generation AI: for Everyone.
 
 全人类共同拥有的人工智能。
 
