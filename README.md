@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-<a href="https://www.distribrain.com" target="_blank">🧠 DistriBrain.com</a>
+<a href="https://www.distribrain.com" target="_blank">🧠 DistriBrain</a>
 </h1>
 
 Distributed Brain of Next-Generation AI: for Everyone.
